@@ -1,3 +1,4 @@
 test
 taguchi test
-taguchi-test2
+taguchi test
+taguchi-test
